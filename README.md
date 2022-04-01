@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @caoyijian
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 我是 @caoyijian
+- 👀 我喜欢游泳！
+- 🌱 我正在学习大数据
+- 💞️ 希望大家多多指教
+- 📫 
+
 
 <!---
 caoyijian/caoyijian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
